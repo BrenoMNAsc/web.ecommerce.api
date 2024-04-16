@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|c:\\users\\softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|solutionrelative:web.ecommerce.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|c:\\users\\softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|solutionrelative:web.ecommerce.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|c:\\users\\softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\customvalidators\\datevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|solutionrelative:web.ecommerce.api\\customvalidators\\datevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|c:\\users\\softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\customvalidators\\invoicepricevalidationattibute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|solutionrelative:web.ecommerce.api\\customvalidators\\invoicepricevalidationattibute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|c:\\users\\softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|solutionrelative:web.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|c:\\users\\softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE79CA3-64DA-480C-A508-0A69C53305AB}|web.ecommerce.api\\web.ecommerce.api.csproj|solutionrelative:web.ecommerce.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\CustomValidators\\DateValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "web.ecommerce.api\\CustomValidators\\DateValidatorAttribute.cs",
+              "ToolTip": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\CustomValidators\\DateValidatorAttribute.cs",
+              "RelativeToolTip": "web.ecommerce.api\\CustomValidators\\DateValidatorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:57:25.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoicePriceValidationAttibute.cs",
+              "DocumentMoniker": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\CustomValidators\\InvoicePriceValidationAttibute.cs",
+              "RelativeDocumentMoniker": "web.ecommerce.api\\CustomValidators\\InvoicePriceValidationAttibute.cs",
+              "ToolTip": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\CustomValidators\\InvoicePriceValidationAttibute.cs",
+              "RelativeToolTip": "web.ecommerce.api\\CustomValidators\\InvoicePriceValidationAttibute.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvx8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:32:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "web.ecommerce.api\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "web.ecommerce.api\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:00:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Program.cs",
+              "RelativeDocumentMoniker": "web.ecommerce.api\\Program.cs",
+              "ToolTip": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Program.cs",
+              "RelativeToolTip": "web.ecommerce.api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:58:46.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "web.ecommerce.api\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Models\\Product.cs",
+              "RelativeToolTip": "web.ecommerce.api\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:54:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "web.ecommerce.api\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Softex\\source\\repos\\web.ecommerce.api\\web.ecommerce.api\\Models\\Order.cs",
+              "RelativeToolTip": "web.ecommerce.api\\Models\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:53:02.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
